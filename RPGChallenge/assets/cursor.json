@@ -1,0 +1,14 @@
+﻿[
+	{
+		"texture" : "click.png",
+		"width" : 92,
+		"height" : 46,
+
+		"animations" : {		
+            "default" : {"dt":100, "frames":[0]},
+
+            "click" : {"dt":60, "frames":[  1,  2,  3,  4,  5,  6,  7,  8, 9]}
+
+			}
+	}
+]
